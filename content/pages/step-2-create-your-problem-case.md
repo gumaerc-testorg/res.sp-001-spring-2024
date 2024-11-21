@@ -13,7 +13,7 @@ Focus on one stakeholder you would most like to help with addressing the problem
 
 If you would like to write a problem statement for another stakeholder, then you may apply this method to that additional stakeholder as well.
 
-The questions are:
+The five questions:
 
 1. Who are the stakeholder groups affected by the problem?
 2. What are the effects of the problem on the primary stakeholder group (PSG)?
@@ -21,10 +21,10 @@ The questions are:
 4. When does the problem occur for the PSG?
 5. Why does the problem occur for the PSG?
 
-***For optimal results, use the provided template for a problem case,*** [***here***](https://docs.google.com/document/d/1U374gzbrRehpbvij6iGd3XXX5GUefrjoQMigSIOAQT4/edit?usp=sharing)***.***
+**For optimal results, use the provided** [**template for a problem case**](https://docs.google.com/document/d/1U374gzbrRehpbvij6iGd3XXX5GUefrjoQMigSIOAQT4/edit?usp=sharing)**.**
 
-For detailed guidelines of good practice on how to research your problem for the problem case, go [here](https://docs.google.com/document/d/1Gj9MO1CYfBLL3KK7OaryRnLCks3Cq4QO5G4wT89gxjE/edit?usp=sharing).
+For good practice on how to research your problem for the problem case, see these [detailed guidelines](https://docs.google.com/document/d/1Gj9MO1CYfBLL3KK7OaryRnLCks3Cq4QO5G4wT89gxjE/edit?usp=sharing).
 
-For an example of a problem case (full document), go [here](https://docs.google.com/document/d/1cqXES6s1J2TuFvW-3FRiF-S7XALz4kH-/edit?usp=sharing&ouid=111389324098950553084&rtpof=true&sd=true). Please note this is an example of a good problem case, not a perfect one.
+See also this [sample problem case](https://docs.google.com/document/d/1cqXES6s1J2TuFvW-3FRiF-S7XALz4kH-/edit?usp=sharing&ouid=111389324098950553084&rtpof=true&sd=true) (full document). Please note this is an example of a good problem case, not a perfect one.
 
-Once you complete your problem case, you can assess it for problem structuring (how well the case follows the D.I.S. method) and for problem understanding (how correct the case is). You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. For detailed assessment guidelines and instructions on how to use generative text tools to do it, go [here](https://docs.google.com/document/d/1xh_Lgee7DsFtPGnDTnYsXmmF0p-2OG6h9cQIZ7GaJ4E/edit?usp=sharing). Note that the assessment rubrics for the problem case were designed for the template provided above and may not be as reliable if you use a different template for your problem case.
+Once you complete your problem case, you can assess it for problem structuring (how well the case follows the D.I.S. method) and for problem understanding (how correct the case is). You can use a generative text tool like ChatGPT to assess problem structuring effectively, but not problem understanding, which requires an expert for assessment. Be sure to read the detailed [assessment guidelines and instructions](https://docs.google.com/document/d/1xh_Lgee7DsFtPGnDTnYsXmmF0p-2OG6h9cQIZ7GaJ4E/edit?usp=sharing) on how to use generative text tools to do it. Note that the assessment rubrics for the problem case were designed for the template provided above and may not be as reliable if you use a different template for your problem case.

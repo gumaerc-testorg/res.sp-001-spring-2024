@@ -11,7 +11,7 @@ Your first step is to write a description of your problem.
 
 Don’t worry if your description seems limited, imprecise, or inaccurate. In the next step, after some inquiry and research, you will write a more robust version of this initial description. 
 
-***Describe your problem in 50–100 words and simple language. Everyone involved in the problem should be able to understand your description.***
+**Describe your problem in 50–100 words and simple language. Everyone involved in the problem should be able to understand your description.**
 
 Examples of problem descriptions: 
 
