@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/defining-real-world-problems-with-the-dis-method-describe-inquire-state/mit_res_sp_001_s24.jpg
+file: /ol-ocw-studio-app/courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024/mit_res_sp_001_s24.jpg
 file_size: 629819
 file_type: image/jpeg
 image_metadata:
